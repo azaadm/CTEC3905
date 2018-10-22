@@ -3,10 +3,12 @@
 body,
 header h1 {
   margin: 0;
+  background-color: black;
+  color: white;
 }
 
 header {
-  background: #ccc;
+  background:green;
   padding: 0.25em;
   text-align: center;
 }
@@ -18,13 +20,13 @@ nav {
 }
 nav a {
   padding: 1.25em 1.5em;
-  color: #ccc;
+  color: green;
   background: #555;
   text-decoration: none;
   transition: all 1.5s;
 }
 nav a:hover {
-  color: #dfd;
+  color:white;
   background: #797;
 }
 
