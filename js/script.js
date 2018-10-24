@@ -5,5 +5,3 @@ function greeting() {
   alert("BOO!");
   hello.textContent = "helolllwjdklewhdiwh";
 }
-
-hello.addEventListener("click", greeting);
